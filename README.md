@@ -42,28 +42,3 @@ The BookStore app allows users to explore, review, and rate books in an organize
 
 ---
 
-## Installation
-
-To set up this project locally, clone the repository and follow the steps below for the client and server configurations.
-
-### Prerequisites
-
-- Node.js
-- MongoDB
-
----
-
-### Client Structure
-
-1. Navigate to the `client` directory:
-   ```bash
-   cd client
-
-2. Install dependencies:
-npm install
-
-3. Start the client:
-npm start
-
-The client will be hosted at http://localhost:3000.
-
