@@ -13,15 +13,6 @@ A comprehensive online BookStore application built with the MERN stack (MongoDB,
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
-4. [Installation](#installation)
-5. [Client Structure](#client-structure)
-6. [Server Structure](#server-structure)
-7. [Combined Setup](#combined-setup)
-8. [Screenshots](#screenshots)
-9. [Future Enhancements](#future-enhancements)
-10. [Contributing](#contributing)
-11. [License](#license)
-
 ---
 
 ## Project Overview
