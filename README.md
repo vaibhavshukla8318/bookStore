@@ -1,7 +1,7 @@
 # BookStore
 
-**[Live Demo](https://bookstore8318.netlify.app/)**
-**[Client](https://github.com/vaibhavshukla8318/BookStore_react)**
+**[Live Demo](https://bookstore8318.netlify.app/)** <br/>
+**[Client](https://github.com/vaibhavshukla8318/BookStore_react)** <br/>
 **[Server](https://github.com/vaibhavshukla8318/bookStore_server)**
 
 A comprehensive online BookStore application built with the MERN stack (MongoDB, Express.js, React, and Node.js) where users can browse, rate, and interact with books across various categories. This responsive web app includes functionality for likes, dislikes, ratings, comments, replies, and dynamic categories.
